@@ -16,5 +16,5 @@ def sort_data(number,read,write,sor,da,data):
         elif d=='7':
             write(data())
         elif d=='8':
-            print('До встречи!')        
+            print('До свидания!')        
             break
